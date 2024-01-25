@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calendar App</string>
+    <string name="month">month</string>
+    <string name="day">day</string>
+    <string name="event">event</string>
+    <string name="edit">edit</string>
+    <string name="create">create</string>
+    <string name="back">Back</string>
+    <string name="save">Save Changes</string>
+</resources>
